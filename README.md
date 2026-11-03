@@ -4,9 +4,9 @@ Web API xây dựng bằng FastAPI, dùng một model từ Hugging Face để ph
 
 ## Video demo
 
-[![Video demo](docs/demo-thumbnail.png)](https://github.com/yanwe111/huggingface-sentiment-api/releases/download/v1.0/demo-video.mp4)
+[![Video demo](docs/demo-thumbnail.png)](https://github.com/lqbao110307/huggingface-sentiment-api/releases/download/v1.0/demo-video.mp4)
 
-**[Xem video demo](https://github.com/yanwe111/huggingface-sentiment-api/releases/download/v1.0/demo-video.mp4)**
+**[Xem video demo](https://github.com/lqbao110307/huggingface-sentiment-api/releases/download/v1.0/demo-video.mp4)**
 
 ## Thông tin sinh viên
 
