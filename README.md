@@ -10,8 +10,8 @@ Web API xây dựng bằng FastAPI, dùng một model từ Hugging Face để ph
 
 ## Thông tin sinh viên
 
-- Họ và tên: `<điền họ và tên>`
-- MSSV: `<điền MSSV>`
+- Họ và tên: Le Quoc Bao
+- MSSV: 25127278
 - Môn học: Computational Thinking, Khoa Công nghệ Thông tin, Trường ĐH Khoa học Tự nhiên, ĐHQG TP.HCM
 
 ## Model sử dụng
